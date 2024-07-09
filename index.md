@@ -1,5 +1,9 @@
 # This was an Empty File
 
+- [ ] Include task lists in the body of issues or pull requests
+- [ ] See the progress indicated in the issue list
+- [x] It's good to check things off your list
+
 ```
 $ git init
 Initialized empty GIT repository in /Users/skills/Projects/recipe-repository/.git/
